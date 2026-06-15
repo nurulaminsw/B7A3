@@ -1,18 +1,19 @@
 # Football Ticket Booking System
 
 ## Description
-This project is a PostgreSQL database design for a Football Ticket Booking System.
+This project is a PostgreSQL database design for a Football Ticket Booking System. It includes database schema creation, sample data insertion, and SQL queries based on the assignment requirements.
 
-## Tables
+## Database Tables
 - Users
 - Matches
 - Bookings
 
 ## Features
-- Primary Key
-- Foreign Key
+- Primary Key Constraints
+- Foreign Key Constraints
 - Check Constraints
 - Data Validation
+- Data Insertion
 - SQL Queries using:
   - JOIN
   - Subquery
@@ -20,10 +21,14 @@ This project is a PostgreSQL database design for a Football Ticket Booking Syste
   - ILIKE
   - OFFSET & LIMIT
 
-## Files
+## Project Files
 - football_ticket_booking.sql
-- ERD Link
-- Interview Video Link
+
+## ERD Link
+[ERD Link](https://drive.google.com/file/d/1ft5RWbZFEP4BcTBxt_PcbmZgBLWmnYf3/view?usp=sharing)
+
+## Interview Video Link
+(Add your public video link here)
 
 ## Author
-Your Name
+Nurul Amin
