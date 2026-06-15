@@ -28,7 +28,7 @@ This project is a PostgreSQL database design for a Football Ticket Booking Syste
 [ERD Link](https://drive.google.com/file/d/1ft5RWbZFEP4BcTBxt_PcbmZgBLWmnYf3/view?usp=sharing)
 
 ## Interview Video Link
-(Add your public video link here)
+[Interview Video Link](https://drive.google.com/drive/folders/11W4N3SjRYAAtxI9nrZxjX2N6hXjcnwuN?usp=sharing)
 
 ## Author
 Nurul Amin
